@@ -11,7 +11,7 @@ git clone https://github.com/San-Bed/House-Prices-Prediction.git
 pip install -r /path/to/requirements.txt 
 ```
 
-Then, you should be able to run `main.ipynb`. Some comments and graphs are available directly in the notebook. Check full_report.pdf for more information.
+Then, you should be able to run `main.ipynb`. Some comments and graphs are available directly in the notebook. Check [full_report.pdf](https://github.com/San-Bed/House-Prices-Prediction/blob/main/full_report.pdf) for more information.
 
 ## Support
 
