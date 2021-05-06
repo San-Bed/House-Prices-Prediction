@@ -1,6 +1,6 @@
 # House-Prices-Prediction
 
-This project was completed for my class STT 3795 - Theoretical Foundations of Data Science. As a team of 3, we participated in [this](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) Kaggle competition and achieved a rank of 340/9515 (top 4%).
+This project was completed for my class STT 3795 - Theoretical Foundations of Data Science. As a team of 3, we participated in [this](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) Kaggle competition and achieved a rank of 340/9515 (top 4%). Please use [this](https://nbviewer.jupyter.org/github/San-Bed/House-Prices-Prediction/blob/main/main.ipynb) link if you want to view `main.ipynb`, as GitHub often has troubles rendering `.ipynb` files.
 
 ## Installation
 
