@@ -7,7 +7,7 @@ This project was completed for my class STT 3795 - Theoretical Foundations of Da
 Start by cloning the repository and installing all required packages.
 
 ```
-git clone https://github.com/San-Bed/House-Prices-Prediction.git 
+git clone https://github.com/sandrine-bedard/House-Prices-Prediction
 pip install -r /path/to/requirements.txt 
 ```
 
